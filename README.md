@@ -8,11 +8,18 @@ The objective was to replicate a feature or component from the TryBookAI homepag
 Component Implemented: "Pricing" section.
 
 Design Fidelity: Ensured the component matches the design and functionality of the original section.
+
 Responsiveness: Made the component fully responsive for various screen sizes.
+
 Accessibility: Incorporated accessibility best practices, using semantic HTML and ARIA attributes.
+
 Light and Dark Mode: Added a toggle for light and dark mode.
+
 CSS Framework: Used Tailwind CSS for styling.
+
 Interactivity: Implemented interactivity with vanilla JavaScript.
+
+
 
 Installation
 Clone the repository:
