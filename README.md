@@ -1,4 +1,5 @@
 TryBook Pricing Section Replication
+
 This project is a replication of the "Pricing" section from the TryBookAI website, created as part of a task to demonstrate responsive, accessible, and user-friendly design.
 
 Task Description
